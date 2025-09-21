@@ -52,7 +52,7 @@ echo "
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝ " | lolcat
 
 echo " FOLLOW MY FACEBOOK ACCOUNT 🔔 " | lolcat
-xdg-open https://www.facebook.com/NazmulHossain16239
+xdg-open https://www.facebook.com/share/1Ce3H3wG3p/
 echo ""
 sleep 10
 echo " FOLLOW OUR PAGE" | lolcat
